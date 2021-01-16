@@ -1,5 +1,19 @@
 # NFL-Betting-Analysis
 
+Main code files are
+
+NFL_betting
+betting_analysis_ST
+betting_analysis_clean_ST
+
+Presentation file:
+Three Swamis
+
+'Write-up_ file:
+Can data analysis privide ....
+
+
+
 ## Can data analysis provide an advantage in football sports gambling?
 Scott Thomas, Ken Saville, Kirk Novak
 
