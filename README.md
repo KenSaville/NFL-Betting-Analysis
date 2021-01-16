@@ -5,7 +5,7 @@ Scott Thomas, Ken Saville, Kirk Novak
 
 Note:  Fgures are in the analysis folder
 
-##Introduction:
+## Introduction:
 
 Sports gamblers are always looking for an edge.  However, oftentimes this perceived edge is based on feelings of hunches rather than on solid information.  For example, a common misconception about sports betting is known as the gamblers fallacy, which can be summarized as:  "a team on a losing streak is guaranteed to win their next game".  That is, they are "due ".   
 
@@ -26,7 +26,7 @@ Is there a home field advantage?  Tat is, is there an overall scoring advantage 
 Does weather affect score?  Are scores higher at moderate temperatures and/or lower windspeed?   If so is this affect more pronounced for the home team over the away team?  Is over or under a safer bet?  That is, do the total scores of games, historically, tend to be higher or lower than the over/under line set by bookmakers?
 When should I take the points?  Or, in other words, are there certain teams that tend to 'cover the spread'?  Is there an effect of home field advantage on this metric?
 
-##Analysis:
+## Analysis:
 Is there a home field advantage in scoring?
 We compared the mean scores for home and away teams for all games from 1966 through the 2020 season (N = 12,934) as well as the subset of these games from 1979 to present, as these games also had betting data (spreads and over/under lines) available for subsequent analyses.  We found a mean difference in home vs away scores of 2.7 for each comparison (Figure 1).  An independent T-test comparing these means found that this was a statistically significant difference.
  
@@ -34,21 +34,21 @@ Is over or under a safer bet?
 
 For each game since 1979, we calculated the combined score for both teams and compared this total score to the over under line for that game.  The percentage of games that were "over", "under" or a "push" are shown in Figure 2.  There was no apparent difference between these outcomes (48.5 % were over, 49.6% were under, and 1.9% were a push).   So, the bookmakers very successfully calculated the over underlines to result in about a 50/50 split.  It would be interesting to compare these numbers to the number of bettors that chose these different outcomes.
  
-##Does temperature affect score?
+## Does temperature affect score?
 
 We next analyzed the correlation between game time temperature and total score to see if knowing the temperature in advance might provide some insight into whether to bet the over or under. As shown in Figure 3., there was no correlation between temperature and total score.  There was more variability at lower and higher temperatures. While this may in part be due to fewer games at these extremes, it might also point to some opportunity to exploit this information.  However it does appear that lower and higher scores are also evenly distributed at these extremes, just that the magnitudes of the differences are greater.  We also did these analyses for home and away team scores and also found no correlation (not shown).
  
-##Does wind speed affect total scores?
+## Does wind speed affect total scores?
 
 Similar to the above analysis, we looked at total game scores as a function of wind speed (Figure 4).  In this case we did observe a statistically significant negative correlation between score and wind speed.  That is, as might be expected, total scores tended to be lower in higher wind conditions.  While this might suggest to the casual observer that an 'under' bet would have better odds of winning, it would be prudent to consider that the bookmakers also have access to this information.  It would be interesting to see if the over/under lines were historically set at lower numbers in windy games.  
 
-##Should I take the points?
+## Should I take the points?
 
 The major betting parameter when betting on football games is the "spread".  That is, the bookmakers designate a favorite team and assign a number of points (the spread) by which that team is favored.  Bettors picking the favorite must 'give' points equal to the spread, and bettors picking the underdog are said to 'take' the points.  If the favorite wins the game by more points than the spread, they are said to have 'covered' the spread.  Is there a way to determine which of these strategies (giving or taking points) has better odds in a given game?  One way to approach this is to analyze each team to see if they tend to 'cover' the spread or not.
 overall percentage of teams covering the spread.
 We first analyzed the percentage of teams that have covered the spread since 1979 (Figure 5).  As was seen with the over/under percentages, the bookmakers tend to get this right, with about a 50/50 split for teams covering the spread or not (46.9% cover, 50.3% not covered, 2.8% push).
 
-##Historically speaking are certain teams better against the spread than others?
+## Historically speaking are certain teams better against the spread than others?
 
 We analyzed the tendency of each NFL team to cover the spread (Figure 6).  Similar to the above analysis, the mean percentage of spreads covered was about 47% (horizontal line in Figure 6).  While a few teams (notably Green Bay and San Francisco) slightly exceeded the average, and a few (Tampa Bay, Tennessee and Washington) were a bit below the average, there was very little overall variation from the mean.
 
