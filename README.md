@@ -2,6 +2,8 @@
 
 Main code files are
 
+in main branch
+
 NFL_betting
 betting_analysis_ST
 betting_analysis_clean_ST
@@ -11,6 +13,8 @@ Three Swamis
 
 'Write-up_ file:
 Can data analysis privide ....
+
+Figures are in analysis folder
 
 
 
